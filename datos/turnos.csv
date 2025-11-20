@@ -1,0 +1,6 @@
+id_turno,dni,nombre,apellido,telefono,email,servicio,fecha_hora,estado
+1,25940268,Eugenia,Picciariello,1136897517,mepicciariello@gmail.com,color,2025-11-26 16:00 ,CANCELADO
+2,11447777,Prueba,Sistema ,1112345678,saraza@zaraza.com,corte,2025-11-19 12:00,ACTIVO
+3,40400400,Hijo de Prueba ,Prueba ,12345678901,test@tets.com,color,2025-11-19 12:00,ACTIVO
+4,25940268,Eugenia,Picciariello,1136897517,mepicciariello@gmail.com,corte,2025-11-20 17:00,ACTIVO
+5,25940268,Eugenia,Picciariello,1136897517,mepicciariello@gmail.com,corte,2025-11-26 16:00,ACTIVO
